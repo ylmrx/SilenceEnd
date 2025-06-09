@@ -1,0 +1,7 @@
+{
+    "Lua.workspace.library": ["D:\\Users_Directory\\yoann\\Documents\\Repos\\definitions"],
+    "Lua.runtime.plugin": "D:\\Users_Directory\\yoann\\Documents\\Repos\\definitions\\plugin.lua",
+    "Lua.diagnostics.disable": [
+        "lowercase-global"
+    ]
+}
