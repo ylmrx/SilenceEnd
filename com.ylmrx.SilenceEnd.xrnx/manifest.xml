@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6.1</ApiVersion>
+  <Id>com.ylmrx.SilenceEnd</Id>
+  <Version>1.0</Version>
+  <Author>ylmrx</Author>
+  <Name>Silence End</Name>
+  <Category>Shortcuts</Category>
+  <Description>In a sample, move the early silence to the end</Description>
+  <Homepage>https://soundcloud.com/xoxopowo</Homepage>
+  <Icon>icon.png</Icon>
+  <Platform>Windows, Mac, Linux</Platform>
+</RenoiseScriptingTool>
